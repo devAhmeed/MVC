@@ -1,5 +1,5 @@
 {
-  "name": "ahmed/mvc",
+  "name": "devahmed/mvc",
   "description": "MVC [EraaSoft Task]",
   "autoload": {
     "psr-4": {
